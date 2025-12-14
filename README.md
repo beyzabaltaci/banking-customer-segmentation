@@ -55,3 +55,6 @@ banking-customer-segmentation/
 
 ### Customer Segment Distribution
 ![Customer Segment](visuals/segment_distribution.png)
+
+---
+This project is created for banking-focused data science portfolio development.
