@@ -8,4 +8,5 @@ def load_customer_data():
         "credit_card_spend": [1200, 3000, 1800, 5000, 1600],
         "late_payment_count": [3, 0, 1, 0, 2]
     })
+
     return data

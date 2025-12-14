@@ -9,5 +9,4 @@ data = profile_customers(data)
 data = apply_risk_scoring(data)
 data = apply_credit_decision(data)
 data = segment_customers(data)
-
 print(data)

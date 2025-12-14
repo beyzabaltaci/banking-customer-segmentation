@@ -15,4 +15,5 @@ def profile_customers(data):
     plt.ylabel("Müşteri Sayısı")
     plt.savefig("../visuals/income_segment_distribution.png", bbox_inches="tight")
     plt.close()
+
     return data

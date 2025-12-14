@@ -1,7 +1,6 @@
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-
 def segment_customers(data):
     X = data[["age", "monthly_income", "credit_card_spend"]]
 

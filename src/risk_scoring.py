@@ -5,7 +5,6 @@ def risk_label(late_payment):
         return "Medium"
     else:
         return "High"
-
 def risk_to_score(risk):
     if risk == "Low":
         return 800
